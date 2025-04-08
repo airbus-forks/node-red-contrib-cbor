@@ -17,7 +17,11 @@
     }
   },
   "dependencies": {
-    "cbor": "github:hildjj/node-cbor"
+    "cbor": "^10.0.3"
   },
-  "keywords": [ "node-red", "cbor", "json" ]
+  "keywords": [
+    "node-red",
+    "cbor",
+    "json"
+  ]
 }
